@@ -1,0 +1,24 @@
+{
+  "name": "roomy",
+  "version": "1.0.0",
+  "description": "A room building application utilizing Electron.js and Three.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchicchon/roomy.git"
+  },
+  "keywords": [],
+  "author": "dchicchon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dchicchon/roomy/issues"
+  },
+  "homepage": "https://github.com/dchicchon/roomy#readme",
+  "devDependencies": {
+    "electron": "^16.0.7"
+  }
+}
